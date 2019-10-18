@@ -12,7 +12,7 @@ provides=('cleanjaro-release')
 conflicts=('manjaro-release')
 source=('lsb-release')
 install="cleanjaro-release.install"
-sha256sums=('658aaba7f2380a565447531c6ff07d145457a8658787c9c3bbfe330e06a8f055')
+sha256sums=('f6ac8dac04810954962fc2cc57c28e864ddb4ed8f545c64dd71dd3527e52a036')
 
 package() {
     # Copy files
