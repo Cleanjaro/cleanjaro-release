@@ -1,7 +1,7 @@
 # Maintainer: David Spink <yorper_protonmail.com>
 
 pkgname=cleanjaro-release
-pkgver=19.10.12
+pkgver=19.10.18
 pkgrel=1
 pkgdesc="Cleanjaro release definition"
 arch=("any")
