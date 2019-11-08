@@ -1,7 +1,7 @@
 # Maintainer: David Spink <yorper_protonmail.com>
 
 pkgname=cleanjaro-release
-pkgver=19.10.18
+pkgver=19.11
 pkgrel=1
 pkgdesc="Cleanjaro release definition"
 arch=("any")
@@ -12,7 +12,7 @@ provides=('cleanjaro-release')
 conflicts=('manjaro-release')
 source=('lsb-release')
 install="cleanjaro-release.install"
-sha256sums=('f6ac8dac04810954962fc2cc57c28e864ddb4ed8f545c64dd71dd3527e52a036')
+sha256sums=('56d0075dbb44e7c0622a2d42422835ef68950e1ad8cbe67cb94432352c6a81bc')
 
 package() {
     # Copy files
